@@ -1,5 +1,6 @@
 ﻿{
   "dependencies": {
+    "Humanizer.Core.ar": "2.0.0-nuget-split0001-0091",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
   },
   "frameworks": {
