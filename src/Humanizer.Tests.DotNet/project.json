@@ -9,7 +9,6 @@
     },
 
     "buildOptions": {
-        "emitEntryPoint": true,
         "compile": [ "**/*.cs", "../Humanizer.Tests.Shared/**/*.cs" ]
     },
 

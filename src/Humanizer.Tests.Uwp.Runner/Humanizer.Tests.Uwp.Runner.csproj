@@ -119,12 +119,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Humanizer\Humanizer.csproj">
-      <Project>{511a7984-f455-4a6e-adb9-9caac47ea079}</Project>
-      <Name>Humanizer</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="..\Humanizer.Tests.Shared\Humanizer.Tests.Shared.projitems" Label="Shared" />
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
