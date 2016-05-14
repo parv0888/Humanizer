@@ -40,6 +40,7 @@ Storage.dat
 
 # DNX
 project.lock.json
+project.fragment.lock.json
 *.project.lock.json
 artifacts/
 
